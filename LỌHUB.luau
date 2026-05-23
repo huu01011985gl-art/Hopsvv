@@ -4848,7 +4848,7 @@ function CheckItemBPCRBPCR(p611)
     end
 end
 
-local u616 = loadstring(game:HttpGet('https://raw.githubusercontent.com/huu01011985gl-art/hoangdz/refs/heads/main/UI%20Library%20Maru.txt'))():MakeWindow({
+local u616 = loadstring(game:HttpGet('https://raw.githubusercontent.com/farehamhz/RedzLib/main/RedzLib'))():MakeWindow({
     Title = 'LỌ Hub [ BETA ]',
     SubTitle = 'by hoang',
     SaveFolder = 'tiktok:@hoang_1032013',
